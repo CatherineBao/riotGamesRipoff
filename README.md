@@ -1,5 +1,7 @@
 Running after downloading ZIP file:
+
 npm i react
+
 npm start
 
 # Getting Started with Create React App
